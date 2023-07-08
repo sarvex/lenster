@@ -10060,9 +10060,9 @@ prop-types@^15.7.2, prop-types@^15.8.1:
     react-is "^16.13.1"
 
 protobufjs@^7.0.0:
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/protobufjs/-/protobufjs-7.2.1.tgz#939e76a8e69fd5c70b13f7dd78565d65ce20cdcb"
-  integrity sha512-L3pCItypTnPK27+CS8nuhZMYtsY+i8dqdq2vZsYHlG17CnWp1DWPQ/sos0vOKrj1fHEAzo3GBqSHLaeZyKUCDA==
+  version "7.2.4"
+  resolved "https://registry.yarnpkg.com/protobufjs/-/protobufjs-7.2.4.tgz#3fc1ec0cdc89dd91aef9ba6037ba07408485c3ae"
+  integrity sha512-AT+RJgD2sH8phPmCf7OUZR8xGdcJRga4+1cOaXJ64hvcSkVhNcRHOwIxUatPH15+nj59WAGTDv3LSGZPEQbJaQ==
   dependencies:
     "@protobufjs/aspromise" "^1.1.2"
     "@protobufjs/base64" "^1.1.2"
